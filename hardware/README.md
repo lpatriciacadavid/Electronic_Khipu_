@@ -1,4 +1,4 @@
-### Hardware
+## Hardware
 |    | name		          | q.	  | description 	| Link  
 |----|------------------|-------|---------------|------------------------------------------------------------------------------|
 | 1  | Conductive Rubber String 	| 9	  | Adafruit Conductive Rubber Cord Stretch Sensor 	| |

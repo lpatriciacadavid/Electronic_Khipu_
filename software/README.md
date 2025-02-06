@@ -6,7 +6,6 @@
 | 3  | khipu mapeado en ableton Project | Ableton Live Proect | 1 | [folder](ableton/)
 
 
-
 ### Required software and libraries
 - [Ableton Live](https://www.ableton.com/en/)
 - [Pure Data Extended](https://www.ableton.com/en/)  

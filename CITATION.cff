@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Electronic_Khipu_
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Patricia
+    family-names: Cadavid
+    email: lpcadavid@gmail.com
+    affiliation: Univesity of West of England
+    orcid: 'https://orcid.org/0000-0003-1333-0503'
+repository-code: 'https://github.com/lpatriciacadavid/Electronic_Khipu_'
+abstract: >-
+  The Electronic_Khipu_ is a NIME designed to create live
+  experimental sound through knot-making with conductive
+  rubber cords. It is inspired by the Khipu, an ancient
+  information storage and transmission device used by the
+  Incas and earlier Andean societies. Its name comes from
+  the Kichwa word “khipu,” meaning “knot.”
+keywords:
+  - NIME
+  - DMI
+  - Music Technology Research
+license: GPL-3.0

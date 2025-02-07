@@ -6,6 +6,8 @@ The **Electronic_Khipu_** is a NIME designed to create live experimental sound t
 
 The concept behind the **Electronic_Khipu_** is to revive this ancient device, offering a different interpretation than the Western view, which sees it solely as a numerical system for observation and study, devoid of deeper meaning or "soul." Instead, the **Electronic_Khipu_** reuses the Khipu’s code system to create new messages and sonic narratives.
 
+https://www.patriciacadavid.net/search/label/electronic-khipu 
+
 ![Electronic_Khipu_ Instrument](documentation/images/Electronic_Khipu_.png)
 
 ## Technical notes

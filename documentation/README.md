@@ -1,6 +1,10 @@
+## Records
+Ptricia Cadavid - **Tawa** (2021)  
+Smallforms label  
+
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3909522365/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/transparent=true/" seamless><a href="https://smallforms.bandcamp.com/album/tawa">Tawa by Patricia Cadavid</a></iframe>
+
 ## Video
-
-
 
 ## Bibliography
 - 2022- Master Thesis Knotting the memory//Encoding the Khipu_: Reuse of ancestral Andean technologies as new experimental sound interfaces in the framework of the decoloniality, art, and science relationship. M.A  Interface Cultures - Kunstuniversität Linz    

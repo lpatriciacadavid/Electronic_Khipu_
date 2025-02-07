@@ -25,7 +25,6 @@
 
 \* *Along with the Kanchay_Yupana//*
 
-
 ## Records
 Ptricia Cadavid - **Tawa** (2021)  
 Smallforms label  
@@ -72,4 +71,8 @@ Smallforms label
 [Download PDF](https://ars.electronica.art/outofthebox/files/2019/08/festival2019.pdf#page=133)
 
 <br>
+
 >Special thanks to Nomi Sasaki, Hess Jeon, Luis Urquieta, Amir Bastan, Enrique Tomas, ÖH project funding, Interface Culture Lab.
+
+## Other Notes
+The **Electronic_Khipu_** is inspired by the *MIDI Melody Maker* (https://learn.adafruit.com/midi-melody-maker) and uses elements from the Conductive String-based Arduino Musical Instrument Conductive String-based Arduino Musical Instrument (https://www.instructables.com/Arduino-Musical-Instrument/).

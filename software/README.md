@@ -2,7 +2,7 @@
 |    | name		          | description 	| Version | Link |  
 |----|------------------|---------------|---------|---------------------------------------------------------------------|
 | 1  | tawafinal.pd  | Pure data patches | 1 |[folder](/puredata/) |
-| 2  | Khipu_9strings_ino | Firmaware for Teensy (Arduino IDE) | **9 strings** | [folder](Khipu_9strings_ino/)|
+| 2  | Khipu_5strings_ino | Firmaware for Teensy (Arduino IDE) | **5 strings** | [folder](Khipu_5strings_ino/)|
 | 3  | khipu mapeado en ableton Project | Ableton Live Proect | 1 | [folder](ableton/)
 
 

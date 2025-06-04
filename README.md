@@ -1,8 +1,8 @@
 # Electronic_Khipu_
 
-The **Electronic_Khipu_** is a NIME designed to create live experimental sound through knot-making with conductive rubber cords. It is inspired by the *Khipu*, an ancient information storage and transmission device used by the Incas and earlier Andean societies. Its name comes from the Kichwa word “khipu,” meaning “knot.”
+The **Electronic_Khipu_** is a NIME designed to create live experimental sound through knot-making with conductive rubber cords. It is inspired by the *Khipu*, an ancient information storage and transmission device used by the Incas and earlier Andean societies. Its name comes from the quechua word “khipu,” meaning “knot.”
 
->A khipu consists of a central cord from which secondary strings are detached with knots of different shapes, colors, and sizes that constituted a set of signs that could be used to make numerical records or to account for important facts or events. The khipu has been known for its accounting and statistical utilities, but nowadays it has been discovered that the Khipus also contained several layers of memory that include not only arithmetic data butalso economic, social, biological, historical, astronomical, linguistic and literary records (Cadavid, NIME 2020).
+>A khipu consists of a central cord from which secondary strings are detached with knots of different shapes, colors, and sizes that constituted a set of signs that could be used to make numerical records or to account for important facts or events. The khipu has been known for its accounting and statistical utilities, but nowadays it has been discovered that the Khipus also contained several layers of memory that include not only arithmetic data but also economic, social, biological, historical, astronomical, linguistic and literary records (Cadavid, NIME 2020).
 
 The concept behind the **Electronic_Khipu_** is to revive this ancient device, offering a different interpretation than the Western view, which sees it solely as a numerical system for observation and study, devoid of deeper meaning or "soul." Instead, the **Electronic_Khipu_** reuses the Khipu’s code system to create new messages and sonic narratives.
 
